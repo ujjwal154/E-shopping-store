@@ -7,10 +7,6 @@ A dynamic web application built using **Flask** with role-based access control, 
 
 ---
 
-## 🔗 Live Demo
-
-🚀 [Your Live URL Goes Here](https://your-app-url.onrender.com)
-
 ---
 
 ## 📦 Features
@@ -20,7 +16,7 @@ A dynamic web application built using **Flask** with role-based access control, 
 - 📝 Membership & Class Management
 - 👥 User Registration with Optional Class Enrollment
 - 👤 Member & Trainer Profiles
-- 💻 MySQL Integration (via Railway)
+- 💻 MySQL Integration 
 - ✨ Clean UI with Flask templates
 
 ---
@@ -28,10 +24,9 @@ A dynamic web application built using **Flask** with role-based access control, 
 ## 🛠️ Tech Stack
 
 - **Backend**: Python, Flask
-- **Database**: MySQL (via Railway)
+- **Database**: MySQL
 - **Authentication**: JWT (using `flask-jwt-extended`)
 - **Frontend**: HTML, CSS (Jinja Templates)
-- **Deployment**: Render / Replit / Railway
 
 ---
 
@@ -40,8 +35,7 @@ A dynamic web application built using **Flask** with role-based access control, 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/gym-management.git
-cd gym-management
+git clone https://github.com/ujjwal154/E-shopping-store/tree/main
 ```
 
 ### 2. Install Dependencies
